@@ -3,7 +3,7 @@
 A simple todo app that works locally with localstorage
 
 ![](./1.png)
-!{](./2.png)
+![](./2.png)
 
 ## Try it!
 
